@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Странный Прохожий](https://up.htmlacademy.ru/javascript/24/user/1690247).
-* Наставник: `Неизвестно`.
+* Студент: [Странный Прохожий](https://up.htmlacademy.ru/javascript/24/user/1690247)
+* Наставник: [Алексей Толстоног](https://htmlacademy.ru/profile/id620625).
 
 ---
 
