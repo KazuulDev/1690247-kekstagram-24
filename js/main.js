@@ -14,11 +14,9 @@ function getRandomInt(min, max) {
 }
 
 // eslint-disable-next-line no-unused-vars
-function checkMaxLength(string, stringlenght) {
-  if (string > stringlenght) {
-    new alert('Слишком длинный комментарий');
-    return (false);
-  }
-
-  return (true);
+function checkLength( string, maxLexngth){
+  const currentStringLength = string.split('').length;
+  if (currentStringLength> maxLexngth) {
+    return false;}
+  return true;
 }
