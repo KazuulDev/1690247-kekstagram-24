@@ -77,3 +77,6 @@ function checkLength(string, maxLexngth){
 Всесвалюн
 Глазосверк
 */
+function autoFiller () {
+  for (let i = 0; i < 1; i++) {}
+}
